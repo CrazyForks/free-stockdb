@@ -59,8 +59,8 @@ http api接口
 
 **每秒 335万条数据**
 
+![更新运行图](https://github.com/hello245m/free-stockdb/blob/main/%E6%9B%B4%E6%96%B0%E8%BF%90%E8%A1%8C%E5%9B%BE.png)
 
-
-
+![数据库运行图](https://github.com/hello245m/free-stockdb/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%90%E8%A1%8C%E5%9B%BE.png)
 
 
